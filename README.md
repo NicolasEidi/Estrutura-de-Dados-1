@@ -1,9 +1,11 @@
 # Estrutura de Dados 1
- 
+
+</br>
 Estudo sobre:
-Lista Encadeada Simples
-Lista Duplamente Encadeada
-Lista Circular Simplesmente Encadeada
-Lista Circular Duplamente Encadeada
-Lista Encadeada com Cabeça e Cauda
-Matriz esparsa
+</br>
+</br>Lista Encadeada Simples
+</br>Lista Duplamente Encadeada
+</br>Lista Circular Simplesmente Encadeada
+</br>Lista Circular Duplamente Encadeada
+</br>Lista Encadeada com Cabeça e Cauda
+</br>Matriz esparsa
