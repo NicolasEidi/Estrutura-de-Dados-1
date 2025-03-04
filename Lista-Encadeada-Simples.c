@@ -10,7 +10,7 @@ No *cria_no(int valor);
 void insere_novo(No **novo, int valor);
 
 void imprime(No *inicio);
-
+ 
 
 
 int main()
